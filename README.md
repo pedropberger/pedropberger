@@ -12,7 +12,7 @@
 
 <p>💪 Training every day to improve my skills as data scientist and developer</p>
 
-<p>🚀 Looking for projects that challenge me to develop my skills and improve the world</p>
+<p>🚀 Looking for projects</p>
 
 <p><a href="mailto:pedropberger@gmail.com">📧</a> Seja mais do que bem vindo para entrar em contato comigo sobre projetos, oportunidades, parcerias ou o que eu puder ajudar.</p>
 
