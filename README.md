@@ -20,3 +20,11 @@
 <p>&nbsp;</p>
 
 <p><strong><em>Maybe it is not possible to change the world with data, but I believe that data can show how</em></strong></p>
+
+<p>&nbsp;</p>
+
+<div align="center">
+  <a href="https://github.com/pedropberger">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropberger&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropberger&layout=compact&langs_count=7&theme=gradient"/>
+</div>
