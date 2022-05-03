@@ -1,6 +1,6 @@
 <h3><strong>Hi! I&#39;m Pedro, welcome to my GitHub 👋</strong></h3>
 
-<p>-------------------</p>
+----------------------
 
 <p>&nbsp;</p>
 
