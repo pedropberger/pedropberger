@@ -14,7 +14,7 @@
 
 <p>🚀 Looking for projects</p>
 
-<p><a href="mailto:pedropberger@gmail.com">📧</a> Seja mais do que bem vindo para entrar em contato comigo sobre projetos, oportunidades, parcerias ou o que eu puder ajudar.</p>
+<p><a href="mailto:pedropberger@gmail.com">📧</a> You are more than welcome to contact me about projects, opportunities, partnerships, or whatever I can help you with.</p>
 
 
 <p>&nbsp;</p>
