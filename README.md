@@ -10,8 +10,6 @@
 
 <p>🔍 Open government data and transparency activist</p>
 
-<p>🔍 Open government data and transparency activist</p>
-
 <p>🤖 Machine learning and AI enthusiast</p>
 
 <p>💪 Training every day to improve my skills as data scientist and developer</p>
