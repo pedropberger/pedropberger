@@ -6,13 +6,13 @@
 
 <p>💻📊 I&#39;m a data scientist with bachelor&#39;s degree in statistics and master&#39;s degree in production engineering.</p>
 
-<p>🤓 Also phd student and technical instructor</p>
+<p>🤓 Also phd student</p>
 
 <p>🔍 Open government data and transparency activist</p>
 
 <p>🤖 Machine learning and AI enthusiast</p>
 
-<p>💪 Training every day to improve my skills as data scientist and developer</p>
+<p>💪 Improving my skills as data scientist and developer</p>
 
 <p>🚀 Looking for projects</p>
 
