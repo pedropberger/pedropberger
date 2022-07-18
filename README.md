@@ -21,7 +21,6 @@
 
 <p>&nbsp;</p>
 
-##<p><strong><em>Maybe it is not possible to change the world with data, but I believe that data can show how</em></strong></p>
 
 <p>&nbsp;</p>
 
