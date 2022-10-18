@@ -4,9 +4,9 @@
 
 <p>&nbsp;</p>
 
-<p>💻📊 I&#39;m a data scientist with bachelor&#39;s degree in statistics and master&#39;s degree in production engineering.</p>
+<p>💻📊 Data scientist with bachelor&#39;s degree in statistics and master&#39;s degree in production engineering.</p>
 
-<p>🤓 Also phd student</p>
+<p>🤓 Phd student</p>
 
 <p>🔍 Open government data and transparency activist</p>
 
