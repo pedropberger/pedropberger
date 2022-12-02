@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-<p>💻📊 Data scientist with bachelor&#39;s degree in statistics and master&#39;s degree in production engineering.</p>
+<p>💻📊 Data scientist with bachelor&#39;s degree in statistics and master&#39;s degree in engineering.</p>
 
 <p>🤓 Phd student</p>
 
