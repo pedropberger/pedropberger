@@ -12,9 +12,7 @@
 
 <p>🤖 Machine learning and AI enthusiast</p>
 
-<p>💪 Improving my skills as data scientist and developer</p>
-
-<p>🚀 Looking for projects</p>
+<p>🚀 Improving my skills as data scientist and developer</p>
 
 <p><a href="mailto:pedropberger@gmail.com">📧</a> You are more than welcome to contact me about projects, opportunities, partnerships, or whatever I can help you with.</p>
 
