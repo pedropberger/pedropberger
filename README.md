@@ -14,7 +14,7 @@
 
 <p>🚀 Improving my skills as data scientist and developer</p>
 
-<p><a href="mailto:pedropberger@gmail.com">📧</a> You are more than welcome to contact me about projects, opportunities, partnerships, or whatever I can help you with.</p>
+<p><a href="mailto:pedropberger@gmail.com">📧</a> You are more than welcome to contact me about projects, opportunities, partnerships, or whatever I can help you with :D</p>
 
 
 <p>&nbsp;</p>
