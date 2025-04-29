@@ -46,7 +46,7 @@
 *   🐍 Python (Pandas, Scikit-learn, PyTorch/TensorFlow basics, Langchain)
 
 **Data Engineering & Processing:**
-*    M ETL/ELT & Data Pipelines: Apache Airflow, DAGs
+*   🦾 ETL/ELT & Data Pipelines: Apache Airflow, DAGs
 *   💾 Databases: SQL Server, MongoDB, ElasticSearch
 *   🧹 Text Data Processing & Cleaning
 *   ⚡ Data Retrieval Optimization & Scalable API Development (FastAPI/Flask)
